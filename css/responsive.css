@@ -20,7 +20,7 @@
     #social {top: 72px;}
     .col-3 p {
         column-count: 2;
-        -webkit-column-count: 2;
+        -we
         column-count: 2;
     }
 }
