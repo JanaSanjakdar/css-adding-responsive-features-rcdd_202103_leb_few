@@ -1,2 +1,4 @@
 
-@media query only screen and (max-width:1108px)
+@media only screen and (max-width:1108px) {
+  #navbar {}
+}
